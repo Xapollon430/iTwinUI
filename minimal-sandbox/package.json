@@ -6,7 +6,7 @@
   "private": true,
   "main": "src/index.tsx",
   "dependencies": {
-    "@itwin/itwinui-react": "3",
+    "@itwin/itwinui-react": "3.22.0",
     "@itwin/itwinui-icons-react": "2",
     "react": "19",
     "react-dom": "19"
